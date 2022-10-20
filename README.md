@@ -1,7 +1,9 @@
 Olá, eu sou a Simone Penido
 
 Hoje trabalho no setor: administrativo
+
 Estudando: HTML/CSS
+
 Pronomes: Ela/Dela
 
 <div align="center">
