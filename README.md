@@ -6,9 +6,9 @@ Estudando: HTML/CSS
 
 Pronomes: Ela/Dela
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/SimonePenido">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=simonepenido&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=simonepenido&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonepenido&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
