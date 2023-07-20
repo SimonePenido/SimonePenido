@@ -1,12 +1,12 @@
 Olá, eu sou a Simone Penido
 
-# Hoje trabalho no setor: Administrativo, em transição de carreira para área de TI.
+Hoje trabalho no setor: Administrativo, em transição de carreira para área de TI.
 
-# Estudando: HTML/CSS/Javascript/MongoDB
+Estudando: HTML/CSS/Javascript/MongoDB
 
-# Graduação: 2º Semestre - Análise e Desenvolvimento de Sistemas - Faculdade Vincit
+Graduação: 2º Semestre - Análise e Desenvolvimento de Sistemas - Faculdade Vincit
 
-# Pronomes: Ela/Dela
+Pronomes: Ela/Dela
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
