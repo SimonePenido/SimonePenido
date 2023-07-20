@@ -1,14 +1,15 @@
 Olá, eu sou a Simone Penido
 
-Hoje trabalho no setor: administrativo
+# Hoje trabalho no setor: Administrativo, em transição de carreira para área de TI.
 
-Estudando: HTML/CSS
+# Estudando: HTML/CSS/Javascript/MongoDB
 
-Pronomes: Ela/Dela
+# Graduação: 2º Semestre - Análise e Desenvolvimento de Sistemas - Faculdade Vincit
+
+# Pronomes: Ela/Dela
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Rafa-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    </div>
