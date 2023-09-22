@@ -1,6 +1,6 @@
 # SimonePenido
 
-Olá, meu nome é Simone Penido, atualmente trabalho na área administrativa e estou em trensição para área de TI.
+Olá, meu nome é Simone Penido, atualmente trabalho na área administrativa e estou em transição para área de TI.
 
 Graduação: 2º Semestre - Análise e Desenvolvimento de Sistemas - Faculdade Vincit
 
