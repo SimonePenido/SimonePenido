@@ -1,6 +1,6 @@
-Olá, eu sou a Simone
+# SimonePenido
 
-Hoje trabalho no setor: Administrativo, em transição de carreira para área de TI.
+Olá, meu nome é Simone Penido, atualmente trabalho na área administrativa e estou em trensição para área de TI.
 
 Graduação: 2º Semestre - Análise e Desenvolvimento de Sistemas - Faculdade Vincit
 
@@ -16,12 +16,8 @@ Pronomes: Ela/Dela
  <div>
  <a href="https://discord.gg/simpenido#4412" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:simpenido@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/simone-penido" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
-# SimonePenido
-
-Meu nome é Simone Penido, atualmente trabalho na área administrativa e estou em trensição para área de TI.
-
+ 
 
 ## 🚀 Sobre mim
 Paranaense de nascimento e gaúcha de coração!
