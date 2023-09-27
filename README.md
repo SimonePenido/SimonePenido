@@ -10,11 +10,11 @@
 
 ## Minha Formação:
 
-Graduação em andamento - 2º Semestre (Previsão de conclusão em 05/2025) - Análise e Desenvolvimento de Sistemas - Faculdade Vincit
-Bacharela em Administração - 2012 - Faculdade Modelo
-Pós-graduada em Segurança da Informação - 2022 - Faculdade Focus
-Pós-graduada em Arquitetura de Sistemas de Informação - 2022 - Faculdade Focus
-Técnica em Contabilidade - 2017 - IFRS|Instituto Federal Sul-rio-grandense
+<br/>•  Graduação em andamento - 2º Semestre (Previsão de conclusão em 05/2025) - Análise e Desenvolvimento de Sistemas - Faculdade Vincit<br/>
+<br/>•  Bacharela em Administração - 2012 - Faculdade Modelo<br/>
+<br/>•  Pós-graduada em Segurança da Informação - 2022 - Faculdade Focus<br/>
+<br/>•  Pós-graduada em Arquitetura de Sistemas de Informação - 2022 - Faculdade Focus<br/>
+<br/>•  Técnica em Contabilidade - 2017 - IFRS|Instituto Federal Sul-rio-grandense<br/>
 
 <br />
 
@@ -54,6 +54,8 @@ Meus Pronomes: Ela/Dela
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SimonePenido&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+<div style="display: inline_block">
+ 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
@@ -63,7 +65,7 @@ Meus Pronomes: Ela/Dela
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-
+</div>
 
 ## 🛠️ ** FERRAMENTAS DEVOPS **
 
@@ -109,7 +111,7 @@ Meus Pronomes: Ela/Dela
 
 ## 🏆 Troféus GitHub
 <div style="display: inline_block">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SimonePenido" alt="SimonePenido" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SimonePenido" alt="SimonePenido" /></a> </p>
 </div>
 <hr />
 
