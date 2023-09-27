@@ -51,9 +51,6 @@ Meus Pronomes: Ela/Dela
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/admsimone/)
 
 
-https://www.buymeacoffee.com/simoneitads
-
-
 ## Tecnologias Utilizadas
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SimonePenido&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
@@ -72,8 +69,6 @@ https://www.buymeacoffee.com/simoneitads
 
 # 📊 Status do GitHub:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonePenido&show_icons=true&locale=pt-br" alt="SimonePenido" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SimonePenido)](https://git.io/streak-stats)
 
 ## 🏆 Troféus GitHub
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SimonePenido" alt="SimonePenido" /></a> </p>
