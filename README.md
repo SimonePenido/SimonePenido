@@ -2,12 +2,9 @@
 
  ## 🚀 Sobre mim
 
-Olá, meu nome é Simone Penido, atualmente trabalho no seguimento administrativo e estou em transição de carreira para a área de TI.
-<br />
-Paranaense de nascimento e gaúcha de coração!
-<br />
-**Sou uma desenvolvedora web jr do Brasil.**
-<br />
+<br/>Olá, meu nome é Simone Penido, atualmente trabalho no seguimento administrativo e estou em transição de carreira para a área de TI.<br />
+<br>Paranaense de nascimento e gaúcha de coração!<br />
+<br/>**Sou uma desenvolvedora web jr do Brasil.**</br>
 <br />Procuro resolver problemas complexos e transforma-los em designs de interface modernos e agradáveis.<br/>
 <br />Também me esforço para escrever códigos eficientes, sejam em HTML, CSS, JavaScript, ou utilizando frameworks e bibliotecas como o Bootstrap.<br/>
 
@@ -111,8 +108,9 @@ Meus Pronomes: Ela/Dela
 
 
 ## 🏆 Troféus GitHub
+<div style="display: inline_block">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SimonePenido" alt="SimonePenido" /></a> </p>
-
+</div>
 <hr />
 
 ### **Obrigada por visitar o meu Perfil no GitHub!** 🙏
