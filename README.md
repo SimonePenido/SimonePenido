@@ -1,6 +1,11 @@
 # Simone Penido
 
 Olá, meu nome é Simone Penido, atualmente trabalho no seguimento administrativo e estou em transição de carreira para a área de TI.
+**Sou uma desenvolvedora web jr do Brasil.**
+<br/><br/>Procuro resolver problemas complexos e transforma-los em designs de interface modernos e agradáveis.
+<br/><br/>Também me esforço para escrever códigos eficientes, sejam em HTML, CSS, JavaScript, ou utilizando frameworks e bibliotecas como o Bootstrap.
+
+## Minha Formação:
 
 Graduação em andamento - 2º Semestre (Previsão de conclusão em 05/2025) - Análise e Desenvolvimento de Sistemas - Faculdade Vincit
 Bacharela em Administração - 2012 - Faculdade Modelo
@@ -8,8 +13,16 @@ Pós-graduada em Segurança da Informação - 2022 - Faculdade Focus
 Pós-graduada em Arquitetura de Sistemas de Informação - 2022 - Faculdade Focus
 Técnica em Contabilidade - 2017 - IFRS|Instituto Federal Sul-rio-grandense
 
+<br />
 
 Pronomes: Ela/Dela
+
+<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
+
+• 🔭 Estou a procura de vagas de <b>Estágio | Trainee | Junior de Senioridade</b> <br/>
+• 💬 Pergunte-me sobre <b>Desenvolvimento Front-End</b>.<br/>
+• 📫 Entre em contato comigo<a href="https://www.instagram.com/simoneitads"><b>@simoneitads</b></a><br/>
+</span>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,13 +46,16 @@ Paranaense de nascimento e gaúcha de coração!
 
 
 ## 🔗 Meu Instagram
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/simoneitads/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/admsimone/)
+
+
+https://www.buymeacoffee.com/simoneitads
 
 
 ## Tecnologias Utilizadas
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SimonePenido&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
