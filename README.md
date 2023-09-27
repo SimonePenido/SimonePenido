@@ -7,6 +7,7 @@ Olá, meu nome é Simone Penido, atualmente trabalho no seguimento administrativ
 Paranaense de nascimento e gaúcha de coração!
 <br>
 **Sou uma desenvolvedora web jr do Brasil.**
+<br>
 <br/>Procuro resolver problemas complexos e transforma-los em designs de interface modernos e agradáveis.<br/>
 <br/>Também me esforço para escrever códigos eficientes, sejam em HTML, CSS, JavaScript, ou utilizando frameworks e bibliotecas como o Bootstrap.<br/>
 
@@ -37,7 +38,7 @@ Meus Pronomes: Ela/Dela
   <img align="center" alt="Simone-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    </div>
   
-  ##
+ ## 🔗 Meu Email
  <div>
  <a href = "mailto:simpenido@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
@@ -74,10 +75,12 @@ Meus Pronomes: Ela/Dela
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman")][repo]
 
 
+
 ## 📄 **EDITORES DE CODIGO & IDES**
 
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code%20Insider-24bfa5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
+
 
 
 ## ☃️ **MEUS RECURSOS DE APRENDIZAGEM**
