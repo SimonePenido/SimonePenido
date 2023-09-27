@@ -3,13 +3,13 @@
  ## 🚀 Sobre mim
 
 Olá, meu nome é Simone Penido, atualmente trabalho no seguimento administrativo e estou em transição de carreira para a área de TI.
-<br>
+<br />
 Paranaense de nascimento e gaúcha de coração!
-<br>
+<br />
 **Sou uma desenvolvedora web jr do Brasil.**
-<br>
-<br/>Procuro resolver problemas complexos e transforma-los em designs de interface modernos e agradáveis.<br/>
-<br/>Também me esforço para escrever códigos eficientes, sejam em HTML, CSS, JavaScript, ou utilizando frameworks e bibliotecas como o Bootstrap.<br/>
+<br />
+<br />Procuro resolver problemas complexos e transforma-los em designs de interface modernos e agradáveis.<br/>
+<br />Também me esforço para escrever códigos eficientes, sejam em HTML, CSS, JavaScript, ou utilizando frameworks e bibliotecas como o Bootstrap.<br/>
 
 ## Minha Formação:
 
@@ -23,7 +23,7 @@ Técnica em Contabilidade - 2017 - IFRS|Instituto Federal Sul-rio-grandense
 
 Meus Pronomes: Ela/Dela
 
-<br>
+<br />
 
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
@@ -111,7 +111,7 @@ Meus Pronomes: Ela/Dela
 
 
 ## 🏆 Troféus GitHub
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SimonePenido" alt="SimonePenido" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SimonePenido" alt="SimonePenido" /></a> </p>
 
 <hr />
 
