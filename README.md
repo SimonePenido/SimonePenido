@@ -1,8 +1,13 @@
 # SimonePenido
 
-Olá, meu nome é Simone Penido, atualmente trabalho na área administrativa e estou em transição para área de TI.
+Olá, meu nome é Simone Penido, atualmente trabalho no seguimento administrativo e estou em transição de carreira para a área de TI.
 
-Graduação: 2º Semestre - Análise e Desenvolvimento de Sistemas - Faculdade Vincit
+Graduação em andamento - 2º Semestre (Previsão de conclusão em 05/2025) - Análise e Desenvolvimento de Sistemas - Faculdade Vincit
+Bacharela em Administração - 2012 - Faculdade Modelo
+Pós-graduada em Segurança da Informação - 2022 - Faculdade Focus
+Pós-graduada em Arquitetura de Sistemas de Informação - 2022 - Faculdade Focus
+Técnica em Contabilidade - 2017 - IFRS|Instituto Federal Sul-rio-grandense
+
 
 Pronomes: Ela/Dela
 
