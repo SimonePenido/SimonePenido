@@ -73,7 +73,7 @@ https://www.buymeacoffee.com/simoneitads
 # 📊 Status do GitHub:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonePenido&show_icons=true&locale=pt-br" alt="SimonePenido" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SimonePenido" alt="SimonePenido" /></p>
+<p>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SimonePenido&theme=neon-dark&hide_border=falso&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</p>
 
 ## 🏆 Troféus GitHub
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SimonePenido" alt="SimonePenido" /></a> </p>
