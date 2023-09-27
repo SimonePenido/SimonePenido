@@ -1,14 +1,14 @@
 # Simone Penido
 
- 
-
-## 🚀 Sobre mim
+ ## 🚀 Sobre mim
 
 Olá, meu nome é Simone Penido, atualmente trabalho no seguimento administrativo e estou em transição de carreira para a área de TI.
+<br>
 Paranaense de nascimento e gaúcha de coração!
+<br>
 **Sou uma desenvolvedora web jr do Brasil.**
-<br/><br/>Procuro resolver problemas complexos e transforma-los em designs de interface modernos e agradáveis.
-<br/><br/>Também me esforço para escrever códigos eficientes, sejam em HTML, CSS, JavaScript, ou utilizando frameworks e bibliotecas como o Bootstrap.
+<br/>Procuro resolver problemas complexos e transforma-los em designs de interface modernos e agradáveis.<br/>
+<br/>Também me esforço para escrever códigos eficientes, sejam em HTML, CSS, JavaScript, ou utilizando frameworks e bibliotecas como o Bootstrap.<br/>
 
 ## Minha Formação:
 
@@ -21,6 +21,8 @@ Técnica em Contabilidade - 2017 - IFRS|Instituto Federal Sul-rio-grandense
 <br />
 
 Meus Pronomes: Ela/Dela
+
+<br>
 
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
@@ -64,16 +66,19 @@ Meus Pronomes: Ela/Dela
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
+
 ## 🛠️ ** FERRAMENTAS DEVOPS **
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")][repo]
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")][repo]
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman")][repo]
 
+
 ## 📄 **EDITORES DE CODIGO & IDES**
 
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code%20Insider-24bfa5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
+
 
 ## ☃️ **MEUS RECURSOS DE APRENDIZAGEM**
 
@@ -97,8 +102,10 @@ Meus Pronomes: Ela/Dela
 [sof]: https://stackoverflow.com/
 [repo]: https://github.com/SimonePenido?tab=repositories
 
+
 # 📊 Status do GitHub:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonePenido&show_icons=true&locale=pt-br" alt="SimonePenido" /></p>
+
 
 ## 🏆 Troféus GitHub
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SimonePenido" alt="SimonePenido" /></a> </p>
@@ -109,12 +116,11 @@ Meus Pronomes: Ela/Dela
 
 <br />
 
-![](https://ForTheBadge.com/images/badges/built-with-love.svg)
-
-![](https://img.shields.io/github/followers/SimonePenido?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
+![SimonePenido](https://img.shields.io/github/followers/SimonePenido?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
 
 
- ## 💰 Agora você pode me pagar um café! Colabore com meu trabalho:
+ ## 💰 Agora você já pode me pagar um café! 
+ Colabore com meu trabalho:
 
 <br/>
  
