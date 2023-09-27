@@ -1,6 +1,11 @@
 # Simone Penido
 
+ 
+
+## 🚀 Sobre mim
+
 Olá, meu nome é Simone Penido, atualmente trabalho no seguimento administrativo e estou em transição de carreira para a área de TI.
+Paranaense de nascimento e gaúcha de coração!
 **Sou uma desenvolvedora web jr do Brasil.**
 <br/><br/>Procuro resolver problemas complexos e transforma-los em designs de interface modernos e agradáveis.
 <br/><br/>Também me esforço para escrever códigos eficientes, sejam em HTML, CSS, JavaScript, ou utilizando frameworks e bibliotecas como o Bootstrap.
@@ -35,10 +40,6 @@ Meus Pronomes: Ela/Dela
  <a href="https://discord.gg/simpenido#4412" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:simpenido@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
- 
-
-## 🚀 Sobre mim
-Paranaense de nascimento e gaúcha de coração!
 
 
 ## 🔗 Siga-me no LinkedIn
@@ -72,7 +73,7 @@ https://www.buymeacoffee.com/simoneitads
 # 📊 Status do GitHub:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonePenido&show_icons=true&locale=pt-br" alt="SimonePenido" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SimonePenido&" alt="SimonePenido" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SimonePenido" alt="SimonePenido" /></p>
 
 ## 🏆 Troféus GitHub
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SimonePenido" alt="SimonePenido" /></a> </p>
