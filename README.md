@@ -15,13 +15,13 @@ Técnica em Contabilidade - 2017 - IFRS|Instituto Federal Sul-rio-grandense
 
 <br />
 
-Pronomes: Ela/Dela
+Meus Pronomes: Ela/Dela
 
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
 • 🔭 Estou a procura de vagas de <b>Estágio | Trainee | Junior de Senioridade</b> <br/>
 • 💬 Pergunte-me sobre <b>Desenvolvimento Front-End</b>.<br/>
-• 📫 Entre em contato comigo<a href="https://www.instagram.com/simoneitads"><b>@simoneitads</b></a><br/>
+• 📫 Entre em contato comigo <a href="https://www.instagram.com/simoneitads"> <b>@simoneitads</b></a><br/>
 </span>
 
 <div style="display: inline_block"><br>
@@ -67,3 +67,12 @@ https://www.buymeacoffee.com/simoneitads
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
+
+# 📊 Status do GitHub:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonePenido&show_icons=true&locale=pt-br" alt="SimonePenido" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SimonePenido&" alt="SimonePenido" /></p>
+
+## 🏆 Troféus GitHub
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SimonePenido" alt="SimonePenido" /></a> </p>
