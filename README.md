@@ -1,4 +1,4 @@
-# SimonePenido
+# Simone Penido
 
 Olá, meu nome é Simone Penido, atualmente trabalho no seguimento administrativo e estou em transição de carreira para a área de TI.
 
