@@ -1,3 +1,5 @@
+<img aling="center" src="https://www.canva.com/design/DAFwrGTxEyw/4tiaJ7I_e3N7fD3VoXfmdQ/view?utm_content=DAFwrGTxEyw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" />
+
 # Simone Penido
 
  ## 🚀 **Sobre mim**
