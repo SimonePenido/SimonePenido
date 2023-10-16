@@ -1,4 +1,5 @@
-<img aling="center" src="https://www.canva.com/design/DAFwrGTxEyw/4tiaJ7I_e3N7fD3VoXfmdQ/view?utm_content=DAFwrGTxEyw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" />
+
+![banner git](https://github.com/SimonePenido/SimonePenido/assets/112627846/e17e97ab-07f8-41b8-84e9-8da7ceb7e1f9)
 
 # Simone Penido
 
