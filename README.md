@@ -14,7 +14,8 @@
 
 ## **Minha Formação:**
 
-<br/>•  Graduação em andamento - 2º Semestre (Previsão de conclusão em 05/2025) - Análise e Desenvolvimento de Sistemas - Faculdade Vincit<br/>
+<br/>•  Graduação Em Andamento - Análise e Desenvolvimento de Sistemas  | 2º Semestre - Faculdade Vincit - (Previsão de conclusão em 05/2025)<br/>
+<br/>•  Pós-graduação Em Andamento - Desenvolvimento Web - Faculdade IMES - (Previsão de conclusão em 10/2024) <br/>
 <br/>•  Bacharela em Administração - 2012 - Faculdade Modelo<br/>
 <br/>•  Pós-graduada em Segurança da Informação - 2022 - Faculdade Focus<br/>
 <br/>•  Pós-graduada em Arquitetura de Sistemas de Informação - 2022 - Faculdade Focus<br/>
@@ -28,7 +29,7 @@
 
 • 🔭 Estou a procura de vagas de <b>Estágio | Trainee | Dev Junior</b> <br/>
 • 💬 Pergunte-me sobre <b>Desenvolvimento Front-End</b>.<br/>
-• 📫 Entre em contato comigo por Email <a href="mailto:simpenido@gmail.com"> <b>simpenido@gmail.com</b></a><br/>
+• 📫 Entre em contato comigo por E-mail: <a href="mailto:simpenido@gmail.com"> <b>simpenido@gmail.com</b></a><br/>
 </span>
 
 <div style="display: inline_block"><br>
