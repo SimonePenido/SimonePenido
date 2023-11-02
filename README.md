@@ -28,7 +28,7 @@
 
 • 🔭 Estou a procura de vagas de <b>Estágio | Trainee | Dev Junior</b> <br/>
 • 💬 Pergunte-me sobre <b>Desenvolvimento Front-End</b>.<br/>
-• 📫 Entre em contato comigo <a href="https://www.instagram.com/simoneitads"> <b>@simoneitads</b></a><br/>
+• 📫 Entre em contato comigo por Email <a href="mailto:simpenido@gmail.com"> <b>simpenido@gmail.com</b></a><br/>
 </span>
 
 <div style="display: inline_block"><br>
