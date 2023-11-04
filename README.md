@@ -14,12 +14,12 @@
 
 ## **Minha Formação:**
 
-<br/>•  Graduação Em Andamento - Análise e Desenvolvimento de Sistemas  | 2º Semestre - Faculdade Vincit - (Previsão de conclusão em 05/2025)<br/>
+<br/>•  Graduação Em Andamento - Análise e Desenvolvimento de Sistemas - Faculdade Vincit - (Previsão de conclusão em 05/2025)<br/>
 <br/>•  Pós-graduação Em Andamento - Desenvolvimento Web - Faculdade IMES - (Previsão de conclusão em 10/2024) <br/>
 <br/>•  Bacharela em Administração - 2012 - Faculdade Modelo<br/>
 <br/>•  Pós-graduada em Segurança da Informação - 2022 - Faculdade Focus<br/>
 <br/>•  Pós-graduada em Arquitetura de Sistemas de Informação - 2022 - Faculdade Focus<br/>
-<br/>•  Técnica em Contabilidade - 2017 - IFRS|Instituto Federal Sul-rio-grandense<br/>
+<br/>•  Técnica em Contabilidade - 2017 - IFRS | Instituto Federal Sul-rio-grandense<br/>
 
 <br />
 
