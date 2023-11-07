@@ -121,6 +121,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonePenido&show_icons=true&locale=pt-br" alt="SimonePenido" /></p>
 
 
+[![wakatime](https://wakatime.com/badge/user/018ba76c-f6ae-4515-9b0c-d67a1a4cfca2.svg)](https://wakatime.com/@018ba76c-f6ae-4515-9b0c-d67a1a4cfca2)
+
+<a href="https://wakatime.com/@018ba76c-f6ae-4515-9b0c-d67a1a4cfca2"><img src="https://wakatime.com/badge/user/018ba76c-f6ae-4515-9b0c-d67a1a4cfca2.svg" alt="Total time coded since Nov 6 2023" /></a>
+
+
 ## 🏆 Troféus GitHub
 <div style="display: inline_block">
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SimonePenido" alt="SimonePenido" /></a> </p>
