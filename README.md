@@ -120,8 +120,9 @@
 # 📊 Status do GitHub:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonePenido&show_icons=true&locale=pt-br" alt="SimonePenido" /></p>
 
-
-[![wakatime](https://wakatime.com/badge/user/018ba76c-f6ae-4515-9b0c-d67a1a4cfca2.svg)](https://wakatime.com/@018ba76c-f6ae-4515-9b0c-d67a1a4cfca2)
+<div>
+ <a href="https://wakatime.com/@018ba76c-f6ae-4515-9b0c-d67a1a4cfca2" target="_blank"><img height="150em" src="https://github-readme-stats-018ba76c-f6ae-4515-9b0c-d67a1a4cfca2.vercel.app/api/wakatime?username=SimonePenido&theme=tokyonight&hide=markdown,ezhil,other,tsconfig,gdscript&range=last_7_days" alt="Wakatime Stats"/></a>
+</div>
 
 <a href="https://wakatime.com/@018ba76c-f6ae-4515-9b0c-d67a1a4cfca2"><img src="https://wakatime.com/badge/user/018ba76c-f6ae-4515-9b0c-d67a1a4cfca2.svg" alt="Total time coded since Nov 6 2023" /></a>
 
