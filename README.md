@@ -85,7 +85,7 @@
 ## 📄 **EDITORES DE CODIGO & IDES**
 
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
-[![Visual Studio Code](https://img.shields.io/badge/VS%20Code%20Insider-24bfa5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
+
 
 ## 📅 **DATABASE**
 
@@ -120,15 +120,10 @@
 # 📊 Status do GitHub:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonePenido&show_icons=true&locale=pt-br" alt="SimonePenido" /></p>
 
-<div>
- <a href="https://wakatime.com/@018ba76c-f6ae-4515-9b0c-d67a1a4cfca2" target="_blank"><img height="150em" src="https://github-readme-stats-018ba76c-f6ae-4515-9b0c-d67a1a4cfca2.vercel.app/api/wakatime?username=SimonePenido&theme=tokyonight&hide=markdown,ezhil,other,tsconfig,gdscript&range=last_7_days" alt="Wakatime Stats"/></a>
-</div>
-
-<a href="https://wakatime.com/@018ba76c-f6ae-4515-9b0c-d67a1a4cfca2"><img src="https://wakatime.com/badge/user/018ba76c-f6ae-4515-9b0c-d67a1a4cfca2.svg" alt="Total time coded since Nov 6 2023" /></a>
 
 
 ## 🏆 Troféus GitHub
-<div style="display: inline_block">
+<div style="display: flex">
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SimonePenido" alt="SimonePenido" /></a> </p>
 </div>
 <hr />
@@ -137,7 +132,7 @@
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonePenido&theme=blue-green)
 
  ## 5. Profile View Counter
- ![Profile View Counter](https://komarev.com/ghpvc/?username=SimonePenido)
+ ![Profile View Counter](https://komarev.com/ghpvc/?username=SimonePenido&width=150)
 
 ### **Obrigada por visitar o meu Perfil no GitHub!** 🙏
 
