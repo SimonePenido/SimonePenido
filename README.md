@@ -57,23 +57,12 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SimonePenido&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
- 
-[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript "Javascript")][repo]
-
-[![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5 "HTML5")][repo]
-
-[![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4 "CSS3")][repo]
-
-[![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown "Markdown")][repo]
-
-[![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python "Python")][repo]
-
 
 ## 🛠️ **FERRAMENTAS DEVOPS**
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")][repo]
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")][repo]
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman")][repo]
+
 
 ## 🕸️ **WEB DEVELOPER**
 
@@ -121,17 +110,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonePenido&show_icons=true&locale=pt-br" alt="SimonePenido" /></p>
 
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonePenido&theme=red-green)
 
-## 🏆 Troféus GitHub
+
+## 🏆 Troféus GitHub:
 <div style="display: flex">
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SimonePenido" alt="SimonePenido" /></a> </p>
 </div>
 <hr />
 
- ## 
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonePenido&theme=blue-green)
-
- ## 5. Profile View Counter
+ ## 🔢 Profile View Counter
  ![Profile View Counter](https://komarev.com/ghpvc/?username=SimonePenido&width=150)
 
 ### **Obrigada por visitar o meu Perfil no GitHub!** 🙏
