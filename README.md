@@ -62,9 +62,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonePenido&show_icons=true&locale=pt-br" alt="SimonePenido" /></p>
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonePenido&theme=red-green)
-
-
 ## 🏆 Troféus GitHub:
 <div style="display: flex">
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SimonePenido" alt="SimonePenido" /></a> </p>
