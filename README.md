@@ -59,7 +59,7 @@
 
 
 # 📊 Status do GitHub:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonePenido&show_icons=true&locale=pt-br" alt="SimonePenido" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonePenido&layout=compact&theme=ambient_gradient&langs_count=8&card_width=320&show_icons=true&locale=pt-br" alt="SimonePenido" /></p>
 
 
 ## 🏆 Troféus GitHub:
@@ -69,7 +69,7 @@
 <hr />
 
  ## 🔢 Profile View Counter
- ![Profile View Counter](https://komarev.com/ghpvc/?username=SimonePenido&width=150)
+ ![Profile View Counter](https://komarev.com/ghpvc/?username=SimonePenido&layout=compact&theme=ambient_gradient&langs_count=8&card_width=150)
 
 ### **Obrigada por visitar o meu Perfil no GitHub!** 🙏
 
