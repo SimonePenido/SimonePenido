@@ -84,15 +84,6 @@
 </div>
 <hr />
 
- ## 🔗 🔢 Profile View Counter
-
-<div style="display: flex">
- 
-### 
-<p> 
- 🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
-  <img src="https://profile-counter.glitch.me/SimonePenido/count.svg"/>
-  </p>
 
 ### **Obrigada por visitar o meu Perfil no GitHub!** 🙏
 
