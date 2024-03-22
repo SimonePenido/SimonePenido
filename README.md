@@ -50,14 +50,14 @@
 
 
 ## 🔗 **Instagram**
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/simoneitads/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/admsimone/)
+[![simoneitads](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/simoneitads/)
+[![admsimone](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/admsimone/)
 
 
 ## 🔗 📊 **Status do Github**
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SimonePenido&show_icons=true&count_private=true&hide_border=true&title_color=66CDAA&icon_color=66CDAA&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Cabral github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonePenido&layout=compact&hide_border=true&title_color=66CDAA&text_color=66CDAA&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SimonePenido&show_icons=true&count_private=true&hide_border=false&title_color=950101&icon_color=66CDAA&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Cabral github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonePenido&layout=compact&hide_border=false&title_color=950101&text_color=66CDAA&bg_color=0d1117" />
 </div>
 
 
@@ -77,7 +77,7 @@
 ### 
 <p> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
-  <img src="https://profile-counter.glitch.me/SimonePenido/count.svg"/>
+  <img src="https://profile-counter.glitch.me/SimonePenido&theme=dracula/count.svg"/>
   </p>
 
 ### **Obrigada por visitar o meu Perfil no GitHub!** 🙏
@@ -85,7 +85,6 @@
 <br />
 
  ## 💰 Agora você já pode me pagar um café! 
- Colabore com meu trabalho:
 
 <br/>
  
