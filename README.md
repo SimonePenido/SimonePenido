@@ -1,7 +1,8 @@
-
-![banner git](https://github.com/SimonePenido/SimonePenido/assets/112627846/e17e97ab-07f8-41b8-84e9-8da7ceb7e1f9)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=950101&height=120&section=header"/>
 
 # Simone Penido
+
+
 
  ## 🚀 **Sobre mim**
 
@@ -53,23 +54,31 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/admsimone/)
 
 
-## **Tecnologias Utilizadas**
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SimonePenido&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
-# 📊 Status do GitHub:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonePenido&layout=compact&theme=ambient_gradient&langs_count=8&card_width=320&show_icons=true&locale=pt-br" alt="SimonePenido" /></p>
+## 🔗 📊 **Status do Github**
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SimonePenido&show_icons=true&count_private=true&hide_border=true&title_color=66CDAA&icon_color=66CDAA&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Cabral github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonePenido&layout=compact&hide_border=true&title_color=66CDAA&text_color=66CDAA&bg_color=0d1117" />
+</div>
 
 
 ## 🏆 Troféus GitHub:
 <div style="display: flex">
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SimonePenido" alt="SimonePenido" /></a> </p>
+
+<p align="center">
+    <a href="https://github.com/SimonePenido/SimonePenido">
+        <img src="https://github-profile-trophy.vercel.app/?username=SimonePenido&column=-1&theme=dracula&layout=compact"width="95%"/> 
+</p>
 </div>
 <hr />
 
  ## 🔢 Profile View Counter
  ![Profile View Counter](https://komarev.com/ghpvc/?username=SimonePenido&layout=compact&theme=ambient_gradient&langs_count=8&card_width=150)
+
+### 
+<p> 
+ 🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
+  <img src="https://profile-counter.glitch.me/SimonePenido/count.svg"/>
+  </p>
 
 ### **Obrigada por visitar o meu Perfil no GitHub!** 🙏
 
@@ -82,3 +91,4 @@
  
   [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/simoneitads)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=950101&height=120&section=footer"/>
