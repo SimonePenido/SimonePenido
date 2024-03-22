@@ -1,8 +1,19 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=950101&height=120&section=header"/>
 
+<img align="right" src="https://komarev.com/ghpvc/?username=SimonePenido&color=950101"><br>
+
+<div align="left">
+  <!-- Work Links -->
+
 # Simone Penido
 
+<br></br>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=950101&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Simone+Penido;I'm+from+Brazil;I'm+IT+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<br></br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SimonePenido&bg_color=0d1117&color=950101&line=FF0000&point=950101&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  ## 🚀 **Sobre mim**
 
@@ -13,7 +24,8 @@
 <br />Também me esforço para escrever códigos eficientes, sejam em HTML, CSS, JavaScript, ou utilizando frameworks e bibliotecas como o Bootstrap.<br/>
 <br>Meus Pronomes: Ela/Dela </br>
 
-## **Minha Formação:**
+
+## 🎓 **Minha Formação:**
 
 <br/>•  Graduação Em Andamento - Análise e Desenvolvimento de Sistemas - Faculdade Vincit - (Previsão de conclusão em 05/2025)<br/>
 <br/>•  Pós-graduação Em Andamento - Desenvolvimento Web - Faculdade IMES - (Previsão de conclusão em 10/2024) <br/>
@@ -25,6 +37,7 @@
 <br />
 
 <br />
+
 
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
@@ -39,17 +52,17 @@
   <img align="center" alt="Simone-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    </div>
   
- ## 🔗 **Meu Email**
+ ## 🔗 📬 **Meu Email**
  <div>
  <a href = "mailto:simpenido@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 
 
-## 🔗 **LinkedIn**
+## 🔗 🌐 **LinkedIn**
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/SimonePenido/)
 
 
-## 🔗 **Instagram**
+## 🔗 🌐 **Instagram**
 [![simoneitads](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/simoneitads/)
 [![admsimone](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/admsimone/)
 
@@ -61,7 +74,7 @@
 </div>
 
 
-## 🏆 Troféus GitHub:
+## 🔗 🏆 Troféus GitHub:
 <div style="display: flex">
 
 <p align="center">
@@ -71,23 +84,26 @@
 </div>
 <hr />
 
- ## 🔢 Profile View Counter
- ![Profile View Counter](https://komarev.com/ghpvc/?username=SimonePenido&layout=compact&theme=ambient_gradient&langs_count=8&card_width=150)
+ ## 🔗 🔢 Profile View Counter
 
+<div style="display: flex">
+ 
 ### 
 <p> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
-  <img src="https://profile-counter.glitch.me/SimonePenido&theme=dracula/count.svg"/>
+  <img src="https://profile-counter.glitch.me/SimonePenido/count.svg"/>
   </p>
 
 ### **Obrigada por visitar o meu Perfil no GitHub!** 🙏
 
 <br />
+</div>
 
- ## 💰 Agora você já pode me pagar um café! 
+<br>
 
-<br/>
- 
-  [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/simoneitads)
+ ## 🔗 💰 Agora você já pode me pagar um café! 
+
+
+  [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FF0000&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/simoneitads)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=950101&height=120&section=footer"/>
