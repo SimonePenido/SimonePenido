@@ -9,7 +9,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Simone+Penido;I'm+from+Brazil;I'm+IT+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Simone+Penido;I'm+from+Brazil;I'm+IT+Student;Heavy+Metal+Fan;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Simone Penido's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SimonePenido&bg_color=0d1117&color=950101&line=950101&point=950101&area=true&border_color=950101)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -82,7 +82,7 @@
 <hr />
 
 
-### **Obrigada por visitar o meu Perfil no GitHub!** 🙏
+### **Obrigada por visitar o meu Perfil!** 🙏
 
 <br />
 </div>
