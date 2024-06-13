@@ -43,7 +43,10 @@
 • 🔭 Estou a procura de vagas de <b>Estágio | Trainee | Dev Junior</b> <br/>
 • 💬 Pergunte-me sobre <b>Desenvolvimento Front-End</b>.<br/>
 • 📫 Entre em contato comigo por E-mail: <a href="mailto:simpenido@gmail.com"> <b>simpenido@gmail.com</b></a><br/>
+• 💼 Meu portfólio: <a href="https://devfrontendsimone.netlify.app"><b>https://devfrontendsimone.netlify.app/</b></a><br/>
 </span>
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Simone-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
