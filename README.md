@@ -92,9 +92,4 @@
 
 <br>
 
- ##  💰 Agora você já pode me pagar um café! 
-
-
-  [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FF0000&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/simoneitads)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=950101&height=120&section=footer"/>
