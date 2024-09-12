@@ -68,8 +68,8 @@
 [![admsimone](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/admsimone/)
 
 
-##  🌐 **Meu Portfólio**
-[![Simone Penido](https://img.shields.io/badge/github-0A66C2?style=for-the-badge&logo=github&logoColor=white)]([https://devfrontendsimone.netlify.app])
+## 💼 **Meu Portfólio**
+https://devfrontendsimone.netlify.app
 
 
 ##  📊 **Status do Github**
