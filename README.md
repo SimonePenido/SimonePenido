@@ -67,6 +67,11 @@
 [![simoneitads](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/simoneitads/)
 [![admsimone](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/admsimone/)
 
+
+##  🌐 **Meu Portfólio**
+[![Simone Penido](https://img.shields.io/badge/github-0A66C2?style=for-the-badge&logo=github&logoColor=white)]([https://devfrontendsimone.netlify.app])
+
+
 ##  📊 **Status do Github**
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SimonePenido&show_icons=true&count_private=true&hide_border=false&title_color=950101&icon_color=8B0000&text_color=c9d1d9&bg_color=0d1117" alt="Simone Penido GitHub" /> 
