@@ -53,7 +53,8 @@
   <img align="center" alt="Simone-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Simone-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    </div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9f648037-65f8-4692-b71e-02bada06c64a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9f648037-65f8-4692-b71e-02bada06c64a" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <br>
   
  ##  📬 **Meu Email**
