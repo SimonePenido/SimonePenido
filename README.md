@@ -54,9 +54,7 @@
   <img align="center" alt="Simone-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    </div>
 <br>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9f648037-65f8-4692-b71e-02bada06c64a" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  
+
  ##  📬 **Meu Email**
  <div>
  <a href = "mailto:simpenido@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
