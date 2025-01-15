@@ -18,7 +18,7 @@
 
  ## 🚀 **Sobre mim**
 
-<br/>Olá, meu nome é Simone Penido, atualmente trabalho no seguimento administrativo e estou em transição de carreira para a área de TI.
+<br/>Olá, meu nome é Simone Penido. Atualmente trabalho na área administrativa e estou em transição de carreira para a área de TI.
 <br>Paranaense de nascimento e gaúcha de coração!
 <br />Procuro resolver problemas complexos e transforma-los em designs de interface modernos e agradáveis.
 <br />Também me esforço para escrever códigos eficientes, sejam em HTML, CSS, JavaScript, ou utilizando bibliotecas como o Bootstrap.
@@ -27,13 +27,13 @@
 
 ## 🎓 **Minha Formação:**
 
-<br/>•  Graduação Em Andamento - Análise e Desenvolvimento de Sistemas - Faculdade Vincit - (Previsão de conclusão em 05/2025)
-<br/>•  Pós-graduação Em Andamento - Desenvolvimento Web - Faculdade IMES - (Previsão de conclusão em 10/2024) 
-<br/>•  Bacharela em Administração - 2012 - Faculdade Modelo
-<br/>•  Pós-graduada em Segurança da Informação - 2022 - Faculdade Focus
-<br/>•  Pós-graduada em Arquitetura de Sistemas de Informação - 2022 - Faculdade Focus
-<br/>•  Técnica em Contabilidade - 2017 - IFRS | Instituto Federal Sul-rio-grandense
-
+<br/>•  Graduação Em Andamento - Engenharia de Sofware - Faculdade Vincit - (Previsão de conclusão em 12/2028)
+<br/>•  Graduação Tecnológica - Análise e Desenvolvimento de Sistemas - 2022/2025 - Faculdade Vincit 
+<br/>•  Pós-graduação - Desenvolvimento Web - 2023/2024 - Faculdade IMES 
+<br/>•  Pós-graduada em Segurança da Informação - 2021/2022 - Faculdade Focus
+<br/>•  Pós-graduada em Arquitetura de Sistemas de Informação - 2021/2022 - Faculdade Focus
+<br/>•  Técnica em Contabilidade - 2016/2017 - IFRS | Instituto Federal Sul-rio-grandense
+<br/>•  Bacharela em Administração - 2008/2012 - Faculdade Modelo
 
 <br />
 
@@ -64,11 +64,12 @@
 ##  🌐 **Minhas Redes Sociais**
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/SimonePenido/)
 [![simoneitads](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/simoneitads/)
-[![admsimone](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/admsimone/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@simoneitads)
 
 
 ## 💼 **Meu Portfólio**
-https://devfrontendsimone.netlify.app
+[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://devfrontendsimone.netlify.app)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://simonepenido.github.io/Portfolio_SimonePenido_ITADS/)
 
 
 ##  📊 **Status do Github**
