@@ -28,6 +28,7 @@
 ## 🎓 **Minha Formação:**
 
 <br/>•  Graduação Em Andamento - Engenharia de Sofware - Faculdade Vincit - (Previsão de conclusão em 12/2028)
+<br/>• Pós-graduação - Segurança Ofensiva e Inteligência Cibernética - Faculdade Vincit - (Previsão de conclusão em 12/2025)
 <br/>•  Graduação Tecnológica - Análise e Desenvolvimento de Sistemas - 2022/2025 - Faculdade Vincit 
 <br/>•  Pós-graduação - Desenvolvimento Web - 2023/2024 - Faculdade IMES 
 <br/>•  Pós-graduada em Segurança da Informação - 2021/2022 - Faculdade Focus
