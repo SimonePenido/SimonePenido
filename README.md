@@ -73,13 +73,6 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://simonepenido.github.io/Portfolio_SimonePenido_ITADS/)
 
 
-##  📊 **Status do Github**
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SimonePenido&show_icons=true&count_private=true&hide_border=false&title_color=950101&icon_color=8B0000&text_color=c9d1d9&bg_color=0d1117" alt="Simone Penido GitHub" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonePenido&layout=compact&hide_border=false&title_color=950101&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-
 ##  🏆 Troféus GitHub:
 <div style="display: flex">
 
