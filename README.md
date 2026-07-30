@@ -73,17 +73,6 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://simonepenido.github.io/Portfolio_SimonePenido_ITADS/)
 
 
-##  🏆 Troféus GitHub:
-<div style="display: flex">
-
-<p align="center">
-    <a href="https://github.com/SimonePenido/SimonePenido">
-        <img src="https://github-profile-trophy.vercel.app/?username=SimonePenido&column=-1&theme=dracula&layout=compact"width="95%"/> 
-</p>
-</div>
-<hr />
-
-
 ### **Obrigada por visitar o meu Perfil!** 🙏
 
 <br />
